@@ -1,0 +1,86 @@
+body {
+    background-image: url("imagini/background.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+    color: white;
+    font-family: Arial;
+    margin: 40px;
+
+    background-color: #1b1b1b;
+}
+
+h1 {
+    color: #f2c94c;
+    text-align: center;
+}
+
+h2 {
+    color: #f2994a;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+a {
+    color: #56ccf2;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+marquee {
+    color: #f2c94c;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 18px;
+}
+
+hr {
+    border: 1px solid #555555;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th {
+    background-color: #f2994a;
+    color: black;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+    background-color: rgba(255,255,255,0.05);
+}
+
+table, th, td {
+    border: 1px solid #999;
+}
+
+img {
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+a {
+    color: #56ccf2;
+    font-size: 18px;
+    text-decoration: none;
+    transition: 0.3s;
+}
